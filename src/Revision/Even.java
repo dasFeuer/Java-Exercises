@@ -16,7 +16,7 @@ public class Even {
     public static void main(String[] args) {
         int[] arr = {2,3,4,1,6};
         int result = findEvenInArray(arr);
-        System.out.println("There are " + result + " even numbers in array.gi");
+        System.out.println("There are " + result + " even numbers in array.");
 
     }
 }
