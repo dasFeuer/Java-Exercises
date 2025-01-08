@@ -26,10 +26,10 @@ public class BinarySearch {
         Scanner sc = new Scanner(System.in);
         int[] arr = {-22, -3, -1, 5, 7, 8, 9, 11, 15, 17, 19, 22, 24, 27, 31, 32, 35};
         System.out.println("Enter the number to search:");
-        int target = sc.nextInt();
+        int targetNum = sc.nextInt();
 
         System.out.println("Finding the index of the number using binary search......");
-        int answer = binarySearch(arr, target);
+        int answer = binarySearch(arr, targetNum);
         System.out.println(answer);
     }
 }
