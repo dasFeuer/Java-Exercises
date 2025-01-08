@@ -1,4 +1,4 @@
-package Revision;
+package LinearSearchRevision;
 
 import java.util.Arrays;
 

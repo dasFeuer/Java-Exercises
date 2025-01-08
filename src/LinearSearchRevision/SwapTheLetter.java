@@ -1,4 +1,4 @@
-package Revision;
+package LinearSearchRevision;
 
 public class SwapTheLetter {
     public static void main(String[] args) {

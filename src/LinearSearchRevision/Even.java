@@ -1,6 +1,4 @@
-package Revision;
-
-import java.util.Arrays;
+package LinearSearchRevision;
 
 public class Even {
     static int findEvenInArray(int[] arr ){
