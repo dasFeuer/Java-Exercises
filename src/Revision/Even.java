@@ -1,4 +1,4 @@
-package LinearSearchRevision;
+package Revision;
 
 public class Even {
     static int findEvenInArray(int[] arr ){
