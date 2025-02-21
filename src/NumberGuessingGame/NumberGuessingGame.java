@@ -10,7 +10,6 @@ import java.util.Scanner;
 5. What's new: Add the attempts/guesses with total guesses
 6. Player only have 10 guesses to complete the game.
 7. Then start the game.
-8. Error Handling needs to be done.
  */
 public class NumberGuessingGame {
     public static Scanner sc = new Scanner(System.in);
@@ -73,7 +72,7 @@ public class NumberGuessingGame {
                         "GAME OVER!");
                 break;
             } else {
-                System.out.println("Welcome back to the game again!");
+                System.out.println("Welcome back to the game again!\n");
             }
         }
     }
